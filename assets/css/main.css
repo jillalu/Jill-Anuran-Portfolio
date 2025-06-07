@@ -1377,3 +1377,18 @@ section,
 .education .content h2 {
   font-weight: 700;
 }
+.hero-button {
+  display: inline-block;
+  color: black;
+  background: white;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 50px;
+  text-decoration: none;
+  transition: 0.4s;
+}
+
+.hero-button:hover {
+  background: #d3d3d3;
+  color: black;
+}
