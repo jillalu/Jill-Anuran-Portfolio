@@ -1389,6 +1389,6 @@ section,
 }
 
 .hero-button:hover {
-  background: #d3d3d3;
-  color: black;
+  background: #444444;
+  color: rgb(255, 255, 255);
 }
